@@ -1,0 +1,33 @@
+.etage{}
+.porte{}
+.hide{
+  display: none;
+}
+
+.rpdll
+{
+  width: 30%;
+  height: 30%;
+}
+
+.right
+{
+  text-align: right;
+}
+
+.logo
+{
+  width: 40%;
+  height: 40%;
+}
+
+#footer {
+    background-color: #3e3f3a;
+    color: #ffffff;;
+    height: 50px;
+    right: 0;
+    left: 0;
+}
+.label-admin{
+    font-size: 90%
+}
